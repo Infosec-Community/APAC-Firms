@@ -13,3 +13,4 @@ A list of Information Security firms operating in Australia, and where student i
 | Privasec         | https://privasec.com/              |                                       |                                  |
 | Shearwater       | https://shearwater.com.au          | Melbourne, Canberra, Sydney, Brisbane |                                  |
 | TSS Cyber        | https://www.tsscyber.com.au/       | Canberra                              | Limited Student intakes in Brisbane                        |
+| Stickman Consulting | https://www.stickman.com.au/    | Sydney                                | 
