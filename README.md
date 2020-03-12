@@ -5,6 +5,7 @@ A list of Information Security firms operating in Australia, and where student i
 | -----------------|------------------------------------|---------------------------------------|----------------------------------|
 | Alcorn Group     | https://alcorngroup.com/           | Brisbane                              | Student intakes in Brisbane                                 |
 | Context IS       | https://www.contextis.com/en       |                                       |                                  |
+| Deloitte         | https://www2.deloitte.com/au       | Adelaide, Brisbane, Canberra, Melbourne, Perth, Sydney | Summer Vacation and Grad opportunities |
 | DroneSec         | https://dronesec.com.au            | Brisbane, Melbourne, Sydney, Singapore| Intern and Graduate Intakes      |
 | Hivint           | https://hivint.com                 | Brisbane, Melbourne, Perth, Sydney, Canberra| Intern and inferequent grad intakes |
 | Intalock         | https://intalock.com.au            | Brisbane, Sydney                      |                                  |
